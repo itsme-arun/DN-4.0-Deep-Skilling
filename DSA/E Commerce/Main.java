@@ -1,10 +1,3 @@
-//You are building a basic search feature for an e-commerce platform. Given a list of
-// product names and a user search query (string),
-// return all products that start with the given query (prefix search), sorted in lexicographical order.
-
-
-
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
