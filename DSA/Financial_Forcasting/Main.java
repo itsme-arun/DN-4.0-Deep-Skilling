@@ -2,7 +2,7 @@ public class Main{
 
     public static int maxProfitInWindow(int[] profits, int k) {
         if (profits.length < k) {
-            return -1; // Not enough days
+            return -1; 
         }
 
         int windowSum = 0;
