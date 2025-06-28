@@ -23,7 +23,7 @@ class TestStringUtils {
     @BeforeEach
     void setUp() {
         System.out.println("Before Each Test");
-        stringUtils = new StringUtils(); // Arrange
+        stringUtils = new StringUtils(); 
     }
 
     @AfterEach
