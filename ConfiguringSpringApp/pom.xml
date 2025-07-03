@@ -9,11 +9,10 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-        <!-- Latest Spring Context -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>5.3.35</version> <!-- updated to reduce known vulnerabilities -->
+            <version>5.3.35</version> 
         </dependency>
     </dependencies>
 
