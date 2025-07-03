@@ -4,7 +4,6 @@ public class Employee {
     private int id;
     private String name;
 
-    // Getter and Setter
     public int getId() {
         return id;
     }
