@@ -5,7 +5,6 @@
          http://www.springframework.org/schema/beans
          http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <!-- Define a bean for Employee -->
     <bean id="employee" class="org.example.model.Employee">
         <property name="id" value="101"/>
         <property name="name" value="Arun R"/>
