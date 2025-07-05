@@ -1,0 +1,5 @@
+JPA (Java Persistence API) is a specification that defines how Java applications should interact with relational databases. It provides interfaces like EntityManager, but it doesn’t do the actual work — it needs an implementation like Hibernate.
+
+Hibernate is a popular implementation of the JPA specification. It provides the actual functionality to map Java objects to database tables and supports advanced features like caching, lazy loading, and custom queries using HQL (Hibernate Query Language).
+
+Spring Data JPA is a framework built on top of JPA and Hibernate. It makes working with databases even easier by providing ready-made repository interfaces like JpaRepository, so you can perform database operations without writing boilerplate code.
