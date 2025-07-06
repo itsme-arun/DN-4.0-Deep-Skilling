@@ -1,0 +1,14 @@
+
+What it is: A popular implementation of JPA.
+
+What it does: Provides the actual code to persist, query, and manage entities. It can be used with or without JPA.
+
+Extra features: Adds features beyond JPA, like:
+
+Better caching
+
+Native APIs (Session, Criteria)
+
+Extra query options (HQL, native SQL)
+
+How it’s used: When you use JPA in Spring Boot, Hibernate is often the default JPA provider under the hood.

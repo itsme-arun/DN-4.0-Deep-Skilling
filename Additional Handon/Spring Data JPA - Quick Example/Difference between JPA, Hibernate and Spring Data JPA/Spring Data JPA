@@ -1,0 +1,13 @@
+What it is: A Spring project that simplifies JPA.
+
+What it does: Provides abstractions on top of JPA/Hibernate to make working with databases easier:
+
+Auto-generates repository implementations at runtime.
+
+Lets you write interfaces only — no need to write EntityManager code.
+
+Adds JpaRepository, CrudRepository interfaces.
+
+Supports query methods by method naming (findByEmail, findByCountryCode).
+
+How it works: Under the hood, Spring Data JPA uses JPA + your chosen JPA provider (like Hibernate).

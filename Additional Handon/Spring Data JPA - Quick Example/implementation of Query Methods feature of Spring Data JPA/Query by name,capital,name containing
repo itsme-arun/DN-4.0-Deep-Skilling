@@ -1,0 +1,4 @@
+GET http://localhost:8080/countries/name/United State
+GET http://localhost:8080/countries/capital/London
+GET http://localhost:8080/countries/search/United
+

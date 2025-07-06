@@ -1,0 +1,8 @@
+
+What it is: A specification (part of Java EE) that defines a standard way to map Java objects to database tables.
+
+What it provides: Interfaces and annotations like @Entity, @Id, EntityManager, PersistenceContext.
+
+What it does NOT do: It is just a specification — it does not contain any working implementation.
+
+Who implements it: Frameworks like Hibernate, EclipseLink, OpenJPA provide the actual code that implements JPA’s rules.
